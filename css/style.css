@@ -1,0 +1,21 @@
+h1{
+  color: red;
+  text-align: center;
+  text-transform: capitalize;
+  font-size: 100px;
+}
+
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+iframe{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 1280px;
+  height: 720px;
+  margin-top: 30px;
+}
